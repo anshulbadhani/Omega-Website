@@ -1,2 +1,2 @@
-# Omega-Website
+# VA-Joseph-Website
 this is a website for our upcomming project...
